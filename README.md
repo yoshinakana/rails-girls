@@ -18,7 +18,7 @@ ruby-2.6.3
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
-
+photo upload
 * Deployment instructions
 
 * ...
